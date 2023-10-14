@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is George Obiaju
 =====================================================================================================================================
 
-I am a web developer
+I am a software developer
 --------------------
 
 I am a dynamic web developer specializing in crafting innovative and user-centric frontend applications using React and Angular. My proficiency extends to backend development with Flask, Django, and Node.js, and I ensure type-safe and maintainable code through TypeScript. Additionally, my expertise in AWS enables me to design and deploy secure and scalable cloud-based solutions. With a deep understanding of system architecture, I excel in conceptualizing and implementing well-organized and efficient software systems. Whether building responsive user interfaces, developing backend logic, or orchestrating cloud solutions, I bring a holistic approach to software development. Committed to continuous learning and staying updated with industry trends, I am passionate about delivering high-quality, cutting-edge solutions that exceed client expectations.
