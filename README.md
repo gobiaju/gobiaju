@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a software developer
 --------------------
 
-I'm a web developer skilled in creating user-friendly frontends with React and Angular. I also handle backend development using Flask, Django, and Node.js, ensuring clean code with TypeScript. My AWS experience allows me to design secure and scalable cloud solutions. With a knack for efficient system design, I excel in building responsive UIs and orchestrating cloud solutions. Always learning and staying updated, I'm passionate about delivering high-quality solutions that exceed expectations.
+I'm a web developer skilled in creating user-friendly frontends with React and Angular. I also handle backend development using Flask, Django, and Node.js, ensuring clean code with TypeScript. My AWS experience allows me to design secure and scalable cloud solutions. Always learning and staying updated, I'm passionate about delivering high-quality solutions that exceed expectations.
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [obiajugeorge@gmail.com](mailto:obiajugeorge@gmail.com)
