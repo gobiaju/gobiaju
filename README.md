@@ -8,7 +8,7 @@ I'm a web developer skilled in creating user-friendly frontends with React and A
 
 * 🌍  I'm based in Ontario, Canada
 * ✉️  You can contact me at [obiajugeorge@gmail.com](mailto:obiajugeorge@gmail.com)
-* 🤝  I'm open to collaborating on open-source projects
+* 🤝  I'm open to collaborating on projects
 
 ### Skills
 
